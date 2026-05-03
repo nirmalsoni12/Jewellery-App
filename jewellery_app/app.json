@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "jewellery_app",
+    "slug": "jewellery_app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "scheme": "jewelleryapp",
+    "userInterfaceStyle": "automatic",
+    "updates": {
+      "enabled": false
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.jewellery.app"
+    },
+    "android": {
+      "package": "com.jewellery.app",
+      "versionCode": 1,
+      "permissions": [
+        "CAMERA"
+      ]
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d6983fda-5b23-43a5-920a-0cb7c727667f"
+      }
+    },
+    "owner": "mr.nikhil"
+  }
+}
