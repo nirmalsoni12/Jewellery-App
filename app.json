@@ -22,8 +22,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "d6983fda-5b23-43a5-920a-0cb7c727667f"
+        "projectId": "9c6a4496-946b-4594-81be-af41b071c181"
       }
-    }
+    },
+    "owner": "coder_nikhil"
   }
 }
